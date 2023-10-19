@@ -1,0 +1,5 @@
+//instalar
+npm i dotenv
+
+//crear un documento dentro de pag2elixena
+.env
